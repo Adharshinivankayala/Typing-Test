@@ -1,0 +1,1 @@
+This is a web-based Typing Test using HTML, CSS, and JavaScript. It displays a sentence, tracks typing speed with a timer, and provides real-time visual feedback on correct/incorrect characters. Users can practice accuracy and speed, with a restart option to try new sentences.
